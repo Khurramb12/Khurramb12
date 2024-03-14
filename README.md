@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khurram Safi</h1>
 <h3 align="center">A Passionated Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5487982-Developers-Gif/attachments/10896348?mode=media">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5487982-Developers-Gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khurramb12&label=Profile%20views&color=0e75b6&style=flat" alt="khurramb12" /> </p>
 
